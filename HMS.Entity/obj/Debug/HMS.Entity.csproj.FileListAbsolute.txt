@@ -1,0 +1,16 @@
+E:\C#_net\project\HMS\HMS.Entity\bin\Debug\HMS.Entity.dll
+E:\C#_net\project\HMS\HMS.Entity\bin\Debug\HMS.Entity.pdb
+E:\C#_net\project\HMS\HMS.Entity\obj\Debug\HMS.Entity.csprojAssemblyReference.cache
+E:\C#_net\project\HMS\HMS.Entity\obj\Debug\HMS.Entity.csproj.CoreCompileInputs.cache
+E:\C#_net\project\HMS\HMS.Entity\obj\Debug\HMS.Entity.dll
+E:\C#_net\project\HMS\HMS.Entity\obj\Debug\HMS.Entity.pdb
+E:\C#_net\project\HMS\HMS.Entity\bin\Debug\HMS.Entity.dll.config
+E:\C#_net\project\HMS\HMS.Entity\bin\Debug\EntityFramework.dll
+E:\C#_net\project\HMS\HMS.Entity\bin\Debug\EntityFramework.SqlServer.dll
+E:\C#_net\project\HMS\HMS.Entity\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\C#_net\project\HMS\HMS.Entity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\C#_net\project\HMS\HMS.Entity\bin\Debug\EntityFramework.xml
+E:\C#_net\project\HMS\HMS.Entity\bin\Debug\EntityFramework.SqlServer.xml
+E:\C#_net\project\HMS\HMS.Entity\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\C#_net\project\HMS\HMS.Entity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\C#_net\project\HMS\HMS.Entity\obj\Debug\HMS.Entity.csproj.CopyComplete
